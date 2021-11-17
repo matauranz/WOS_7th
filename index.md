@@ -5,10 +5,6 @@
 
 
 
-https://form.jotform.com/jsform/211286843478061
-
-
-
 
 
 You can use the [editor on GitHub](https://github.com/matauranz/WOS_7th/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
