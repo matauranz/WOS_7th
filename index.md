@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages![IMG_0027](https://user-images.githubusercontent.com/18112720/142203330-1b0aa39b-ad39-4924-82e7-d2ae35a96d17.JPG)
+## Welcome to GitHub Pages!
+
+
 ![IMG_0026](https://user-images.githubusercontent.com/18112720/142203341-f13ee681-e374-4232-b6da-a2221a3bb9c6.JPG)
-![IMG_0026(1)](https://user-images.githubusercontent.com/18112720/142203344-19df53bf-4954-4038-b44d-39b4312ff411.JPG)
+
 
 
 You can use the [editor on GitHub](https://github.com/matauranz/WOS_7th/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
