@@ -5,7 +5,7 @@
 
 
 
-<script type="text/javascript" src="https://form.jotform.com/jsform/211286843478061"></script>
+https://form.jotform.com/jsform/211286843478061
 
 
 
