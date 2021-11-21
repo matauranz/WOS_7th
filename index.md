@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages!
+## WOS 7th Tradition Payments
  [WOS](https://form.jotform.com/211286843478061)
 
 
