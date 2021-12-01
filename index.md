@@ -1,5 +1,7 @@
 ## WOS 7th Tradition Payments
-              [WOS](https://form.jotform.com/211286843478061)
+
+
+[WOS](https://form.jotform.com/211286843478061)
 
 TRIAL PAGE FOR WORLD OF THE SPIRIT TEST PAYMENTS PAGE
 
