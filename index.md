@@ -4,7 +4,7 @@
 TRIAL PAGE FOR WORLD OF THE SPIRIT TEST PAYMENTS PAGE
 
 
-[Github Etitor](https://github.com/matauranz/WOS_7th/edit/gh-pages/index.md)
+[Github Editor](https://github.com/matauranz/WOS_7th/edit/gh-pages/index.md)
 
 
 
