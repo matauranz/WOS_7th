@@ -8,6 +8,8 @@ TRIAL PAGE FOR WORLD OF THE SPIRIT TEST PAYMENTS PAGE
 
 [Github Editor](https://github.com/matauranz/WOS_7th/edit/gh-pages/index.md)
 
+
+<!DOCTYPE html>
 <html class="wf-montserrat-n1-active wf-montserrat-n2-active wf-montserrat-n3-active wf-montserrat-n4-active wf-montserrat-n5-active wf-montserrat-n6-active wf-montserrat-n7-active wf-montserrat-n8-active wf-montserrat-n9-active wf-montserrat-i1-active wf-montserrat-i2-active wf-montserrat-i3-active wf-montserrat-i4-active wf-montserrat-i5-active wf-montserrat-i6-active wf-montserrat-i7-active wf-montserrat-i8-active wf-montserrat-i9-active js_active vc_desktop vc_transform vc_transform vc_transform wf-opensans-n4-active wf-cabin-n4-active wf-cabin-n5-active wf-cabin-n6-active wf-cabin-n7-active wf-cabin-i4-active wf-cabin-i5-active wf-cabin-i6-active wf-active" lang="en-NZ"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!-- Mobile Specific Metas & Favicons -->
